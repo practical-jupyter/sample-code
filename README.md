@@ -1,10 +1,15 @@
-# PythonユーザのためのJupyter［実践］入門 サンプルコード
+# [PythonユーザのためのJupyter［実践］入門](https://gihyo.jp/book/2017/978-4-7741-9223-9) サンプルコード
 
-## 注意事項
+## サンプルコードについて
 
-TBD
+* 書籍に掲載されているコードとはレイアウト（改行位置など）が異なる部分がありますが、内容は同じものです
+* コードに問題点などがあった場合は [issues](https://github.com/practical-jupyter/sample-code/issues) にご連絡ください
+* 書籍と異なるバージョンでは動作しないコードがあります（6-7章など）
 
 ## サンプルコード
+
+* nbviewer: [nbviewer](https://nbviewer.jupyter.org)でレンダリングされたものが表示されます
+* Open in Colab: [Colaboratory](https://colab.research.google.com/)上で実行できます
 
 ### 第3章 pandasでデータを処理しよう
 
