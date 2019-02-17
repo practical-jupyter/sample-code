@@ -1,4 +1,4 @@
-# [PythonユーザのためのJupyter［実践］入門](https://gihyo.jp/book/2017/978-4-7741-9223-9) 
+# PythonユーザのためのJupyter［実践］入門
 
 * [書籍公式ページ](https://gihyo.jp/book/2017/978-4-7741-9223-9)
 * [公式サポートページ（正誤表）](https://gihyo.jp/book/2017/978-4-7741-9223-9/support)　
