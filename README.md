@@ -2,8 +2,6 @@
 
 ![banner](./assets/over-10000-promotion-banner_for_github@2x.png)
 
-![banner](./assets/over-10000-promotion-banner_for_github@2x.png)
-
 * [書籍公式ページ](https://gihyo.jp/book/2017/978-4-7741-9223-9)
 * [公式サポートページ（正誤表）](https://gihyo.jp/book/2017/978-4-7741-9223-9/support)　
 
